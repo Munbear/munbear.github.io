@@ -6,6 +6,8 @@ featured_image_thumbnail:
 featured_image: assets/images/posts/2018/3.jpg
 ---
 
+안녕하세요 안녕
+
 A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. By design, a blockchain is inherently resistant to modification of the data. It is *"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way"*. 
 
 <!--more-->
